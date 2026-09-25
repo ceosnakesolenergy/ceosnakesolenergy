@@ -1,4 +1,4 @@
-# Hi there! I'm Giovani, CEO of SnakeSol Energy ⚡🐍
+# Hi there! I'm CEO of SnakeSol Energy ⚡🐍
 
 Welcome to my GitHub profile. I am the founder of a disruptive initiative focused on bridging sustainable energy and blockchain technology through the high-performance $\color{#9945FF}\textsf{\textbf{Solana}}$ network.
 
